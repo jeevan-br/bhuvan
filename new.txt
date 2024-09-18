@@ -1,2 +1,10 @@
 567
+<<<<<<< Updated upstream
 dsfdxvdfvtddfc
+=======
+dsfdxvdfvtddfc
+
+hello
+
+karthik
+notthing
